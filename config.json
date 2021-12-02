@@ -1,7 +1,7 @@
 {
-  "PREFIX": "PREFIX", 
-  "TOKEN": "YOUR TOKEN", 
+  "PREFIX": "#", 
+  "TOKEN": "OTE2MDUwNDg5ODQ4NzY2NDg0.YakggA.bn7DoWzKx7s05O1dPzMoqj5kd00", 
   "QUEUE_LIMIT": 0,
   "COLOR": "BLUE",
-  "inviteURL": "BOT INVITE URL" 
+  "inviteURL": "https://discord.com/api/oauth2/authorize?client_id=916050489848766484&permissions=8&scope=bot" 
 }
